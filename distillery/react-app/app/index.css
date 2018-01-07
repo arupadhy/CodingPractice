@@ -1,0 +1,21 @@
+.container {
+    margin: 0;
+    paddin: 0;
+}
+
+.lang-container {
+    margin-left: auto;
+    align-content: center;
+}
+
+ul {
+    padding: 2px;
+    margin: 10px;
+}
+li {
+    list-style: none;
+    display: inline-flex;
+    padding: 2px;
+    margin: 10px;
+    align-content: center;
+}
